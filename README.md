@@ -16,7 +16,10 @@ This is my first try on kaggle and also my project for EE551!
   * Learn and apply feature engineering in my model.
 * Week 7-8
   * Learn and use other possible ways to improve my result.
-  
+## Final report
+* My final ranking is [2331/8802](https://www.kaggle.com/smallsunjj)
+* If you're looking for other exellent models. Here are the top solutions:[Top 1's solution](https://www.kaggle.com/c/santander-customer-transaction-prediction/discussion/89003#latest-521279)
+
 ## About
 I'm new to machine learning so the task might sound difficult to me. But the important thing is I want to improve my python coding skill and gain lots of information in machine learning through this competition. I believe the process would be exciting!
 
