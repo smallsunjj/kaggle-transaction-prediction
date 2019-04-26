@@ -3,7 +3,7 @@ This is my first try on kaggle and also my project for EE551!
 ## Description
 * The competition name is [Santander Customer Transaction Prediction](https://www.kaggle.com/c/santander-customer-transaction-prediction). It aims to identify which customers will make a specific transaction in the future, irrespective of the amount of money transacted. 
 * The competition start date is February 13 and end date is April 10. I will finish my work during this period.
-* According to the given dataset [preview](https://github.com/smallsunjj/kaggle-transaction-prediction/blob/master/DataPreview.png), basically we can see this is a binary classification problem with 200 features.
+
 ## Timeline
 * Week 1 
   * Extract basic features
@@ -19,7 +19,7 @@ This is my first try on kaggle and also my project for EE551!
 ## Dataset
 The dataset is from kaggle. You can download from [here](https://www.kaggle.com/c/santander-customer-transaction-prediction/data). Also if you want to run my notebook file, make sure the working path is correct.
 ## Final report
-* My final ranking is [2331/8802](https://www.kaggle.com/smallsunjj), and my code and report is here.
+* My final ranking is [2331/8802](https://www.kaggle.com/smallsunjj), and my code and report is [here](https://github.com/smallsunjj/kaggle-transaction-prediction/blob/master/final.ipynb).
 * If you're looking for the best models. Here are the top solutions:[1st place solution](https://www.kaggle.com/c/santander-customer-transaction-prediction/discussion/89003#latest-521279),[2nd place solution](https://www.kaggle.com/c/santander-customer-transaction-prediction/discussion/88939#latest-523152).
 
 ## About
