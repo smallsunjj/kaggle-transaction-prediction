@@ -1,5 +1,5 @@
 # Kaggle-Transaction-Prediction
-This is my first try on kaggle and also my project for EE551!
+This is my first try on kaggle!
 ## Description
 * The competition name is [Santander Customer Transaction Prediction](https://www.kaggle.com/c/santander-customer-transaction-prediction). It aims to identify which customers will make a specific transaction in the future, irrespective of the amount of money transacted. 
 * The competition time is from February 13 to April 10,2019
